@@ -1,0 +1,13 @@
+h1{
+    font-size: 80px;
+    font-family: Impact;
+}
+
+p{
+    font-size: 30px;
+    padding-top: 20px;
+}
+.btn-primary{
+    --bs-btn-hover-bg: green;
+    --bs-btn-hover-border-color: #cecece;
+}
